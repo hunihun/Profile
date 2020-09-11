@@ -47,6 +47,14 @@ Tech
 - 참여기간 : 2019.07 ~ ing
 - 비고 : 회사 서비스
 
+<h2>Kpopina</h2>
+
+- 소개 : 중동 kpop뉴스 알림 앱
+- 사용 기술 : Java, Crolling, Rest Api, Firebase Database 
+- 역할 : 앱제작(100%)
+- 참여기간 : 2020.07 ~ 2020.10
+- 비고 : 외주
+
 <h2>StonePass</h2>
 
  ![stonepass](./images/stonepass.PNG)
