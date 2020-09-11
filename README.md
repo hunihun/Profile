@@ -33,8 +33,6 @@ Tech
 - MVVM
 
 # Project
-
-
 StonePass
 ![stonepass](./images/stonepass.PNG)
 - 소개 : 2차인증 앱
