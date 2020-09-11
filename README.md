@@ -33,10 +33,20 @@ Tech
 - MVVM
 
 # Project
+<h2>플로우</h2>
+
+![flow](./images/flow.PNG)
+- 소개 : 협업툴
+- 사용 기술 : Java, Kotlin, rxJava, MVVM, Databinding, Rest Api, AsyncTask...
+- 역할 : 유지보수, 신규기능 개발
+- 참여기간 : 2019.07 ~ ing
+- 비고 : 회사 서비스
+
 <h2>StonePass</h2>
 
 ![stonepass](./images/stonepass.PNG)
 - 소개 : 2차인증 앱
-- 사용 기술 : Swift, Xcode, Rest Api, 암복호화, JavaScripteInterface
+- 사용 기술 : Swift, Rest Api, 암복호화, JavaScripteInterface
 - 역할 : 웹뷰에서 호출하는 네이티브 기능들
 - 참여기간 : 2018.07 ~ 2019.02
+- 비고 : 회사 서비스
