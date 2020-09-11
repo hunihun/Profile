@@ -33,8 +33,8 @@ Tech
 - MVVM
 
 # Project
-StonePass
 ![stonepass](./images/stonepass.PNG)
+StonePass
 - 소개 : 2차인증 앱
 - 사용 기술 : Swift, Xcode, Rest Api, 암복호화, JavaScripteInterface
 - 역할 : 웹뷰에서 호출하는 네이티브 기능들
