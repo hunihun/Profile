@@ -35,7 +35,7 @@ Tech
 # Project
 <h2>플로우</h2>
 
-![flow](./images/flow.PNG)
+![flow](./images/flow.png)
 - 소개 : 협업툴
 - 사용 기술 : Java, Kotlin, rxJava, MVVM, Databinding, Rest Api, AsyncTask...
 - 역할 : 유지보수, 신규기능 개발
