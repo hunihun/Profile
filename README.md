@@ -34,6 +34,7 @@ Tech
 
 # Project
 <h2>StonePass</h2>
+
 ![stonepass](./images/stonepass.PNG)
 - 소개 : 2차인증 앱
 - 사용 기술 : Swift, Xcode, Rest Api, 암복호화, JavaScripteInterface
