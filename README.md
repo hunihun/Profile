@@ -3,13 +3,13 @@
 - 나이 : 27
 - 거주지 : 본집 = 일산, 자취 = 당산
 - 취미 : 롤, 농구, 낚시
-
+- 블로그 : https://sanghuiiiiii.tistory.com
 # Career
 - 마드라스체크[협업툴 플로우] (2019.07 ~ ing)
 - 소프트제국 (2018.07 ~ 2019.02
 
 # Crew 우주비행
-- Would you be + 행복 = 우주비행
+- Would you 비행?= 우주비행
 - 별똥별 프로젝트 제작중
 - Android, IOS 담당
 
