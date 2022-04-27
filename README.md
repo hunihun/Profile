@@ -1,6 +1,6 @@
 # Profile
 - 이름 : 정상훈
-- 나이 : 27
+- 나이 : 29
 - 거주지 : 본집 = 일산, 자취 = 당산
 - 취미 : 롤, 농구, 낚시
 - 블로그 : https://sanghuiiiiii.tistory.com
@@ -26,12 +26,9 @@
 Language
 - JAVA
 - Kotlin
-- Swift
 
 Tool
 - Android Studio
-- Xcode
-- Eclipse
 
 Tech
 - rxJava
