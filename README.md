@@ -31,9 +31,10 @@ Tool
 - Android Studio
 
 Tech
-- rxJava
-- DataBinding
-- MVVM
+- RxJava
+- AAC
+- MultiModule
+- Hilt
 
 # Project
 <h2>플로우</h2>
@@ -59,7 +60,7 @@ Tech
 - 사용 기술 : Java, Rest Api, Geocoder
 - 역할 : 혼자 다함
 - 기간 : 2019.03 ~ ing
-- 비고 : 사이드 프로젝트, 귀찮아서 안하는중..
+- 비고 : 사이드 프로젝트
 
 <h2>StonePass</h2>
 
